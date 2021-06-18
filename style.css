@@ -1,0 +1,126 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.hero-section{
+    height: 90%;
+    background-color: #EAF6F6;
+    position: relative;
+}
+.hero-section h1{
+    color: #085a91;;
+}
+.hero-section p{
+    color: #085a91;;
+}
+.intro{
+    padding-top: 3%;
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+
+}
+.mountain{
+    width: 50%;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    right: 25%;
+    }
+.cloud-1{
+        position: absolute;
+        left: 20%;
+    }
+.cloud-2{
+        position: absolute;
+        top: 7%;
+        right: 20%;
+    }
+.intro-heading{
+    font-size: 9vh;
+}
+.intro-para{
+    font-size: 3vh;
+}
+.my-image{
+    width: 12%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.about-intro{
+    position: relative;
+   margin-top: 80px;
+    text-align: center;
+}
+.about-intro h1{
+    color: #085a91;
+}
+.about-intro p{
+    color: #40514E;
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+    font-size: larger;
+}
+.about-intro hr{
+    border: none;
+    border-top: 10px dotted #acb9b9;
+    width: 10%;
+    background-color: white;
+    margin-top: 50px;
+}
+.my-skils{
+   margin-top: 100
+  }
+  .compture{
+    width: 12%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+
+  }
+  .about-intro hr{
+    border: none;
+    border-top: 10px dotted #acb9b9;
+    width: 10%;
+    background-color: white;
+    margin-top: 50px;
+  }
+ .my-skills h3{
+     font-size: xx-large ;
+ }
+ .my-skills p{
+     font-size: x-large;
+ }
+ .contact-me{
+     font-size: larger;
+     color: darkturquoise;
+ }
+ .my-skills h4{
+     color: darkcyan;
+     font-size: xx-large;
+ }
+ .my-skills button {
+ height: 50px;
+ width: 10%;
+ font-size: large;
+ color: rgb(255, 255, 255);
+ background-color: rgb(12, 160, 160);
+ border: none;
+ border-radius: 20%;
+ }
+ .my-skills hr{
+     background-color: rgb(31, 225, 231);
+ }
+ .my-skills footer  {
+ font-size: x-large;
+ color: rgb(0, 103, 151);
+ background-color: rgb(47, 155, 255);
+ }
+ .my-skills footer p{
+     font-size: small;
+     color: beige;
+ }
+ .my-skills iodj.png{
+     border-radius: 50%;
+ }
